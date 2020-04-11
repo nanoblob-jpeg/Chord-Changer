@@ -1,5 +1,7 @@
 # chordChanger
 
+THIS DOES NOT WORK 100% OF THE TIME, ESPECIALLY WITH INVERSIONS. PLEASE CHECK THE CHART
+
 This works to change from chord lettering to greek numbers.
 Must run in console.
 
