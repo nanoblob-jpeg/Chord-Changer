@@ -35,27 +35,27 @@ def toGreek(i, scale):
 scale = input("what scale is this song in? Ex: A or A# or Ab or Am or Abm or A#m: ");
 letters = ["A", "B", "C", "D", "E", "F", "G"];
 scales = {
-	"Ab" : ("Ab", "Bbm", "Cm", "Db", "Eb", "Fm", "Gm"),
-	"A" : ("A", "Bm", "C#m", "D", "E", "F#m", "G#m"),
-	"A#" : ("A#", "B#m", "C##m", "D#", "E#", "F##m", "G##m"),
-	"Bb" : ("Bb", "Cm", "Dm", "Eb", "F", "Gm", "Am"),
-	"B" : ("B", "C#m", "D#m", "E", "F#", "G#m", "Am"),
-	"B#" : ("B#", "C##m", "D##m", "E#", "F##", "G##m", "A##m"),
-	"Cb" : ("Cb", "Dbm", "Ebm", "Fb", "Gb", "Abm", "Bbm"),
-	"C" : ("C", "Dm", "Em", "F", "G", "Am", "Bm"),
-	"C#" : ("C#", "D#m", "E#m", "F#", "G#", "A#m","B#m"),
-	"Db" : ("Db", "Ebm", "Fm", "Gb", "Ab", "Bbm", "Cm"),
-	"D" : ("D", "Em", "F#m", "G", "A", "Bm", "C#m"),
-	"D#" : ("D#", "E#m", "F##m", "G#", "A#", "B#m", "C##m"),
-	"Eb" : ("Eb", "Fm", "Gm", "Ab", "Bb", "Cm", "Dm"),
-	"E" : ("E", "F#m", "G#m", "A", "B", "C#m", "D#m"),
-	"E#" : ("E#", "F##m", "G##m", "A#", "B#", "C##m", "D##m"),
-	"Fb" : ("Fb", "Gbm", "Abm", "Bbb", "Cb", "Dbm", "Ebm"),
-	"F" : ("F", "Gm", "Am", "Bb", "C", "Dm", "Em"),
-	"F#" : ("F#", "G#m", "A#m", "B", "C#", "D#m", "E#m"),
-	"Gb" : ("Gb", "Abm", "Bbm", "Cb", "Db", "Ebm", "Fm"),
-	"G" : ("G", "Am", "Bm", "C", "D", "Em", "F#m"),
-	"G#" : ("G#", "A#m", "B#m", "C#", "D#", "E#m", "F##m"),
+	"Ab" : ("Ab", "Bbm", "Cm", "Db", "Eb", "Fm", "G"),
+	"A" : ("A", "Bm", "C#m", "D", "E", "F#m", "G#"),
+	"A#" : ("A#", "B#m", "C##m", "D#", "E#", "F##m", "G##"),
+	"Bb" : ("Bb", "Cm", "Dm", "Eb", "F", "Gm", "A"),
+	"B" : ("B", "C#m", "D#m", "E", "F#", "G#m", "A"),
+	"B#" : ("B#", "C##m", "D##m", "E#", "F##", "G##m", "A##"),
+	"Cb" : ("Cb", "Dbm", "Ebm", "Fb", "Gb", "Abm", "Bb"),
+	"C" : ("C", "Dm", "Em", "F", "G", "Am", "B"),
+	"C#" : ("C#", "D#m", "E#m", "F#", "G#", "A#m","B#"),
+	"Db" : ("Db", "Ebm", "Fm", "Gb", "Ab", "Bbm", "C"),
+	"D" : ("D", "Em", "F#m", "G", "A", "Bm", "C#"),
+	"D#" : ("D#", "E#m", "F##m", "G#", "A#", "B#m", "C##"),
+	"Eb" : ("Eb", "Fm", "Gm", "Ab", "Bb", "Cm", "D"),
+	"E" : ("E", "F#m", "G#m", "A", "B", "C#m", "D#"),
+	"E#" : ("E#", "F##m", "G##m", "A#", "B#", "C##m", "D##"),
+	"Fb" : ("Fb", "Gbm", "Abm", "Bbb", "Cb", "Dbm", "Eb"),
+	"F" : ("F", "Gm", "Am", "Bb", "C", "Dm", "E"),
+	"F#" : ("F#", "G#m", "A#m", "B", "C#", "D#m", "E#"),
+	"Gb" : ("Gb", "Abm", "Bbm", "Cb", "Db", "Ebm", "F"),
+	"G" : ("G", "Am", "Bm", "C", "D", "Em", "F#"),
+	"G#" : ("G#", "A#m", "B#m", "C#", "D#", "E#m", "F##"),
 
 	"Abm" : ("Abm", "Bbm", "Cb", "Dbm", "Eb", "Fb", "G"),
 	"Am" : ("Am", "Bm", "C", "Dm", "E", "F", "G#"),
@@ -95,7 +95,7 @@ while True:
     contents.append(str(line))
 
 for i in range(len(contents)):
-	if contents[i].count(" ") > len(contents[i])/3 +1:
+	if contents[i].count(" ") > len(contents[i])/4 +1:
 		for j in scales[scale]:
 			contents[i] = contents[i].replace(j, toGreek(scales[scale].index(j) + 1, scale))
 	f.write(contents[i]);
