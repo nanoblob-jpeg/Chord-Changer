@@ -1,6 +1,12 @@
 # chordChanger
 
 This works to change from chord lettering to greek numbers.
+Must run in console.
+
+Go to the directory where magic.py is located
+Then use:
+python magic.py
+
 First you must indicate the scale when it prompts you;
 It's written in order of Letter(minor if applicable)(# or b if applicable)
 Hit enter
