@@ -16,82 +16,52 @@ Hit enter
 Then paste the song in as is, ie ctrl+a, ctrl+c, ctrl+p
 In the line after the song, press ctrl+z for windows and ctrl+d for mac
 ex:
+```
 Great Are You Lord
 
 [Intro]
-
 F  Am  G
-
 F  Am  G
 
 
 [Verse]
-
-         F             Am
-         
+         F             Am        
 You give life, You are love
-
-          G
-          
+          G          
 You bring light to the darkness
-
-         F           Am 
-         
+         F           Am         
 You give hope, You restore
-
-       G
-       
+       G       
 Every heart that is broken
-
 F Am            G
-
   Great are You, Lord
   
 
-
 [Chorus]
-
-          F              Am
-          
+          F              Am         
 It's Your breath in our lungs
-
-      G
-      
+      G      
 So we pour out our praise, we pour out our praise
-
-          F              Am
-          
+          F              Am          
 It's Your breath in our lungs
-
-      G            
-      
+      G                 
 So we pour out our praise to You only
 
 
 [Instrumental]
-
 C   Csus   F2   C
 
 
 [Bridge]
-
 C        
-
 All the earth will shout Your praise
-
 Csus
-
 Our hearts will cry, these bones will sing
-
 F2             C
-
 Great are You, Lord
 
-
 [Ending]
-
 F  Am  G
-
 ^Z
-
+```
 Then press enter, it will output the translated chord chart into the text document called output.txt into the same folder as the program.
