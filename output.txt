@@ -1,53 +1,119 @@
-Goodness, Love, and Mercy - Chris Tomlin
+So Will I 100 Billion X - Hillsong United
+[Intro]
+Cadd9  Em  D
+Cadd9  Em  D
 
-     I               IV
-Oh Lord, You're my Shepherd
-              V                I
-You make me lie in fields of green
-              I           IV
-You lead me by the still waters
-              V                I   V/viidim
-You restore righteousness to me
-           B                IV
-Though I walk through the valley
-         I      V/viidim  B 
-I will fear no evil thing
-              IV             V       I
-For You are with me and You comfort me
+[Verse 1]
+Cadd9
+God of creation
+vi                    V                    IVadd9  vi    V
+There at the start, before the beginning of time
+     IVadd9
+With no point of reference
+    vi                    V                        IVadd9  I/iii   V
+You spoke to the dark and fleshed out the wonder of light
+
+[Chorus]
+             I
+And as You speak
+                  vi               V
+A hundred billion galaxies are born
+                      I/iii              IVadd9
+In the vapour of Your breath the planets form
+         vi                 IVadd9           I
+If the stars were made to worship, so will I
+                        vi                     V
+I can see Your heart in everything You've made
+                        I/iii        IVadd9
+Every burning star, a signal fire of grace
+      vi                 IVadd9           I   vi   V   I/iii
+If creation sings Your praises, so will I
+
+[Verse 2]
+Cadd9
+God of Your promise
+    vi                      V                IVadd9 vi     V
+You don't speak in vain, no syllable empty or void
+    IVadd9
+For once You have spoken
+    vi                  V                       IVadd9  I/iii   V
+All nature and science, follow the sound of Your voice
+
+[Chorus 2]
+             I
+And as You speak
+                    vi                        V
+A hundred billion creatures catch Your breath
+               I/iii            IVadd9
+Evolving in pursuit of what You said
+       vi               IVadd9           I
+If it all reveals Your nature, so will I
+                        vi                V
+I can see Your heart in everything You say
+                     I/iii          IVadd9
+Every painted sky, a canvas of Your grace
+      vi           IVadd9              I   vi 
+If creation still obeys You, so will I
+         V I/iii        IVadd9  vi    V   IVadd9  vi    V
+(So will I,    so will I)
+
+[Bridge]
+         IVadd9                              vi    V
+If the stars were made to worship, so will I
+          IVadd9                             vi    V
+If the mountains bow in reverence, so will I
+        IVadd9                               vi    V
+If the oceans roar Your greatness, so will I
+        IVadd9                         vi            V
+For if everything exists to lift You high, so will I
+           IVadd9                                 vi    V
+And if the wind goes where You send it, so will I
+       IVadd9                              vi    V
+If the rocks cry out in silence, so will I
+       IVadd9                                 vi    V
+If the sum of all our praises still falls shy
+           IVadd9                         vi     V   IV      vi    V
+Then we'll sing again a hundred billion times
 
 
-IV        V                  I                             IV
-Surely goodness, love and mercy will follow wherever I go
-         V                  I                             IV
-Surely goodness, love and mercy will follow wherever I go
-         V                  B          V                IV
-Surely goodness, love and mercy will follow wherever I go
+IVadd9  vi    V
 
+[Verse 3]
+Cadd9
+God of salvation
+    vi                           V                    IVadd9   vi    V
+You chased down my heart through all of my failure and pride
+     IVadd9
+On a hill You created
+    vi                  V                      IVadd9  I/iii   V
+The light of the world abandoned in darkness to die
 
-     ii               V
-Oh Lord, You're my Shepherd
-              B                ii
-You make me lie in fields of green
-              ii           V
-You lead me by the still waters
-              B                ii   B/I#
-You restore righteousness to me
-           viidim               V
-Though I walk through the valley
-         ii      B/I#  viidim 
-I will fear no evil thing
-              V             B       ii
-For You are with me and You comfort me
+[Chorus 3]
+             I
+And as You speak
+                  vi                V
+A hundred billion failures disappear
+                            I/iii           IVadd9
+Where You lost Your life so I could find it here
+        vi              IVadd9              I
+If You left the grave behind You, so will I
+                        vi                    V
+I can see Your heart in everything You've done
+                         I/iii              IVadd9
+Every part designed in a work of art called love
+       vi               IVadd9           I
+If You gladly chose surrender, so will I
+                               vi                    V
+I can see in Your heart, eight billion different ways
+                      I/iii             IVadd9
+Every precious one, a child You died to save
+       vi                IVadd9               I
+If You gave Your life to love them, so will I
 
-
-V    ii/IV# V              B     ii                    ii/IV#
- Surely   goodness, love and mercy will follow wherever I go
-V    ii/IV# V              B     ii                    ii/IV#
- Surely   goodness, love and mercy will follow wherever I go
-V    ii/IV# V                    viidim          B                V     ii/IV# - V
- Surely   goodness, love and mercy will follow wherever I go
-
-
-  ii       V              ii          B    IV#7 viidim    V   iii   B
-I'm gonna dwell in the house of the Lord forever
-
+[Outro]
+                       vi             V
+Like You would again a hundred billion times
+                       I/iii             IVadd9
+But what measure could amount to Your desire
+           vi            IVadd9             I
+You're the One who never leaves the one behind

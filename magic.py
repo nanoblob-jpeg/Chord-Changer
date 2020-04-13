@@ -3,7 +3,7 @@ def toGreek(i, scale):
 		if i == 1:
 			return "i";
 		elif i == 2:
-			return "iidim";
+			return "ii";
 		elif i == 3:
 			return "III";
 		elif i == 4:
@@ -29,7 +29,7 @@ def toGreek(i, scale):
 		elif i == 6:
 			return "vi";
 		elif i == 7:
-			return "viidim";
+			return "vii";
 
 
 scale = input("what scale is this song in? Ex: A or A# or Ab or Am or Abm or A#m: ");
